@@ -36,9 +36,6 @@ Finding the nearest important point of interests  and  tracking of the users.
 * `GuideMeClient/src/RouteSearch` - folder for route search
 * `GuiceMeServer/src` - folder for server codes
 
-## License
-MIT
-
 For detailed explanation on how things work, checkout the [keynote presentation](`GPS NAVIGATION USING POCKET PC.key`)
 
 ### Authors:
