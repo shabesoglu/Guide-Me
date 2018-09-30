@@ -1,5 +1,5 @@
 # GPS navigation mobile app running on Windows CE.
-This is a digital navigation software on pocket pc. It helps people find their routes to a speficic destination via mobile device.
+This is a digital navigation software on pocket pc. It helps people find their routes to a specific destination via mobile device.
 
 ## What is the Purpose ?
 The aim of the project is to guide the user on a map of İstanbul by using a Pocket PC including a GPS receiver. 
